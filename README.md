@@ -1,2 +1,2 @@
 # CurrencyConverter
-Console based app for real time currency converter
+Console based app for real-time currency converter.
